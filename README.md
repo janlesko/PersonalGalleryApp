@@ -1,0 +1,1 @@
+codeacademy project - personal photo album with a registration and sign-in function
